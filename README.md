@@ -1,5 +1,7 @@
 # OGMinesweeper
 
+<img width="326" height="413" alt="image" src="https://github.com/user-attachments/assets/82603b9a-b11d-4b83-b803-6ce643a05e30" />
+
 A small Minesweeper replica made with Godot.
 
 ## Features
@@ -22,10 +24,6 @@ A small Minesweeper replica made with Godot.
 ## Download
 
 Playable builds are available from the Releases page.
-
-<img width="326" height="413" alt="image" src="https://github.com/user-attachments/assets/82603b9a-b11d-4b83-b803-6ce643a05e30" />
-
-Add one or two screenshots here.
 
 ## License
 
